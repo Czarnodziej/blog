@@ -1,5 +1,5 @@
 theme="material-design"
-baseurl = "http://blog.insanet.eu/"
+baseurl = "http://blog.insanet.eu"
 languageCode = "en-us"
 title = "Insanet Blog"
 MetaDataFormat = "toml"
