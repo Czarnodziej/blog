@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Insanet Blog</title>
-    <link>http://blog.insanet.eu/</link>
-    <description>Recent content on Insanet Blog</description>
+    <title>Pages on Insanet Blog</title>
+    <link>http://blog.insanet.eu/page/</link>
+    <description>Recent content in Pages on Insanet Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>blog@insanet.eu (Marcin Mongiało)</managingEditor>
     <webMaster>blog@insanet.eu (Marcin Mongiało)</webMaster>
     <lastBuildDate>Sun, 23 Apr 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://blog.insanet.eu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://blog.insanet.eu/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,16 +22,6 @@
  Linux PHP MySQL/MariaDB JS GO Docker Pizza🍕  Tools I&amp;rsquo;m using:
  Arch Linux PhpStorm Sublime Text 3 KeePass VIM TMUX  Things I do not like:
  bloated web, full of unnecessary things cold pizza  </description>
-    </item>
-    
-    <item>
-      <title>Intro</title>
-      <link>http://blog.insanet.eu/post/intro/</link>
-      <pubDate>Mon, 17 Apr 2017 16:24:46 +0200</pubDate>
-      <author>blog@insanet.eu (Marcin Mongiało)</author>
-      <guid>http://blog.insanet.eu/post/intro/</guid>
-      <description>Hello world!
-Im gonna be writing about great many thing that I like</description>
     </item>
     
   </channel>

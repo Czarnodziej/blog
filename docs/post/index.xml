@@ -5,8 +5,8 @@
     <link>http://blog.insanet.eu/post/</link>
     <description>Recent content in Posts on Insanet Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© 2017 Insanet</copyright>
+    <managingEditor>blog@insanet.eu (Marcin Mongiało)</managingEditor>
+    <webMaster>blog@insanet.eu (Marcin Mongiało)</webMaster>
     <lastBuildDate>Mon, 17 Apr 2017 16:24:46 +0200</lastBuildDate>
     
 	<atom:link href="http://blog.insanet.eu/post/index.xml" rel="self" type="application/rss+xml" />
@@ -14,11 +14,12 @@
     
     <item>
       <title>Intro</title>
-      <link>http://blog.insanet.eu/2017/04/17/intro/</link>
+      <link>http://blog.insanet.eu/post/intro/</link>
       <pubDate>Mon, 17 Apr 2017 16:24:46 +0200</pubDate>
-      
-      <guid>http://blog.insanet.eu/2017/04/17/intro/</guid>
-      <description>Hello world from Hugo!</description>
+      <author>blog@insanet.eu (Marcin Mongiało)</author>
+      <guid>http://blog.insanet.eu/post/intro/</guid>
+      <description>Hello world!
+Im gonna be writing about great many thing that I like</description>
     </item>
     
   </channel>

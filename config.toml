@@ -19,7 +19,7 @@ publishDir = "docs"
 
 [Author]
   name = "Marcin Mongiało"
-  email = "marcin.mongialo@gmail.com"
+  email = "blog@insanet.eu"
   # facebook = "username"
   # googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
   github = "Czarnodziej"
@@ -34,7 +34,8 @@ publishDir = "docs"
   # soundcloud = "username"
   spotify = "Czarnodziej"
   # bandcamp = "username"
-  itchio = "username"
+  # itchio = "username"
+
 [[menu.main]]
     name = "Blog"
     url = "/"

@@ -5,8 +5,8 @@
     <link>http://blog.insanet.eu/tags/</link>
     <description>Recent content in Tags on Insanet Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>© 2017 Insanet</copyright>
+    <managingEditor>blog@insanet.eu (Marcin Mongiało)</managingEditor>
+    <webMaster>blog@insanet.eu (Marcin Mongiało)</webMaster>
     
 	<atom:link href="http://blog.insanet.eu/tags/index.xml" rel="self" type="application/rss+xml" />
     
