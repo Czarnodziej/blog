@@ -5,7 +5,7 @@ title = "Insanet Blog"
 MetaDataFormat = "toml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
-disqusShortname = "disqus_SaqWnDdEkZ" # optional
+disqusShortname = "http-blog-insanet-eu"
 publishDir = "docs"
 
 [params]
