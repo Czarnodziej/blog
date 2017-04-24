@@ -6,4 +6,4 @@ title = "Intro"
 +++
 Hello world!
 
-Im gonna be writing about great many things that I [like](/page/about)
+Im gonna be writing about great many things that I [like](/page/about).
